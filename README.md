@@ -6,6 +6,7 @@ My LeetCode Solutions
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/khanmuaaz19204-hue/LeetCode---DSA/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/khanmuaaz19204-hue/LeetCode---DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
 |  |
@@ -18,5 +19,10 @@ My LeetCode Solutions
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/khanmuaaz19204-hue/LeetCode---DSA/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/khanmuaaz19204-hue/LeetCode---DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/khanmuaaz19204-hue/LeetCode---DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
